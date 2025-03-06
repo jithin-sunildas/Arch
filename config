@@ -1,0 +1,9 @@
+# ░█▀▀░█░█░█▀█░█▀▀░▀█▀░▀█▀░█░█
+# ░█░█░█▀█░█░█░▀▀█░░█░░░█░░░█░
+# ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░░░▀░░░▀░
+
+font-family = "JetBrains Mono"
+theme = catppuccin-mocha
+shell-integration-features = no-cursor
+cursor-style = block_hollow
+background-opacity = 0.8
